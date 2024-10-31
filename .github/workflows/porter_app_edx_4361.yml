@@ -1,7 +1,7 @@
 "on":
     push:
         branches:
-            - master
+            - porter-stack-edx-71d92f74
 name: Deploy to edx
 jobs:
     porter-deploy:
